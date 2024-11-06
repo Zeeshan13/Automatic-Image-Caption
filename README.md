@@ -54,7 +54,7 @@ The trained model generates captions for new images by passing the image through
 
 
 ## Access the Application
-You can access the live application here: [Automatic Image Captioning App](https://automatic-image-caption-5uhujjwfa7z6mqyje99ggb.streamlit.app/)
+You can access the live application here: [Automatic Image Caption App](https://automatic-image-caption-5uhujjwfa7z6mqyje99ggb.streamlit.app/)
 
 ## Future Work
 
