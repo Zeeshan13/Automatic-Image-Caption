@@ -2,8 +2,3 @@ tensorflow
 Pillow 
 numpy
 streamlit
-=======
-tensorflow
-Pillow 
-numpy
-streamlit
