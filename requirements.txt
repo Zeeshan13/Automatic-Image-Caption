@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+tensorflow
+Pillow 
+numpy
+streamlit
+=======
+tensorflow
+Pillow 
+numpy
+streamlit
+>>>>>>> 08380fc5a02817280aeed9f68e3e8fcaf3f50f5f
